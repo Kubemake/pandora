@@ -2,7 +2,7 @@ function send_email() {
 var name=$("#app_name").val();
 var email=$("#app_email").val();
 var phone=$("#app_phone").val();
-if(name=="")
+/*if(name=="")
 {
 	$("#app_name").addClass("errors");
 }
@@ -26,7 +26,7 @@ else
 {
 	$("#app_phone").removeClass("errors");
 }
-
+*/
 if(name!="" && phone!="" && validEmail(email) )
 {
 	$("#mail_msg").load("email.php?name="+name+"&email="+email+"&phone="+phone);
