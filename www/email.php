@@ -1,5 +1,5 @@
 <?php 
-$to = 'chauhanjeet3@gmail.com'; // Put in your email address here
+$to = 'opolozhevets@usaveinclinics.com <opolozhevets@usaveinclinics.com>, emurillo@usaveinclinics.com <emurillo@usaveinclinics.com>, Paulina Stanislawczyk <pstanislawczyk@usaveinclinics.com>, Mariangely Correa <mcorrea@usaveinclinics.com>, Milena Jaros <mjaros@usaveinclinics.com>, Vicky Chiampas <vchiampas@usaveinclinics.com>, Iryna Bachynska <ibachynska@usaveinclinics.com>, Roel Reyna <rreyna@usaveinclinics.com>, Zaneta Czajkowski <zczajkowski@usaveinclinics.com>, Nadejda Surdu <nsurdu@usaveinclinics.com>, gstanonis@usaveinclinics.com <gstanonis@usaveinclinics.com>, Qiana Wise <qwise@usaveinclinics.com>, Margie Mukite <mmukite@usaveinclinics.com>, Yan Katsnelson <ykatsnelson@usaveinclinics.com>, Flora Katsnelson <drflora@usaveinclinics.com>, Natalia Luneva <nluneva@usaveinclinics.com>, Chryl Chambers <cchambers@usaveinclinics.com>, USAVeinClinics Marketing <marketing@usaveinclinics.com>, info <info@usaveinclinics.com>'; // Put in your email address here
 $subject  = "Make an appointment today"; // The default subject. Will appear by default in all messages. Change this if you want.
 
 // User info (DO NOT EDIT!)
